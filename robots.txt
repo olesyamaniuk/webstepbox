@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://synthriva.com/sitemap.xml
+Sitemap: https://webstepbox.online/sitemap.xml
